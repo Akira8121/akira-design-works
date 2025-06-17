@@ -8,7 +8,7 @@
 レスポンシブ対応していますので、スマホやタブレットからもご確認可能です。
 
 サイトURLはこちら
-[https://akira8121.github.io/trajectory/](https://akira8121.github.io/akira-design-works/)
+https://akira8121.github.io/akira-design-works/
 
 
 # デザイン
